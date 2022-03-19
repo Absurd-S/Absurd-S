@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Absurd-S
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Personal software development and interest programming (just hobby)
+- 🌱 I’m currently learning ...Something that seems difficult
+- 💞️ I’m looking to collaborate on ...Testing and development of games or software
 - 📫 How to reach me ...2105667136@qq.com
 
 <!---
